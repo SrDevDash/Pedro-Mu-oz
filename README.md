@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://srdashdevportafolio.netlify.app/](https://srdashdevportafolio.netlify.app/)
 
-- 💬 Ask me about **React, Node, Sequelize**
+- 💬 Ask me about **React, Angular , Node, Sequelize**
 
 - 📫 How to reach me **pedrojose0272@gmail.com**
 
